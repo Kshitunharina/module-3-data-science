@@ -1,0 +1,4 @@
+Modified using r+ mode.
+Hello Students!
+This is write mode.
+This line is added using append mode.
